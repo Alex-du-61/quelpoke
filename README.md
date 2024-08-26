@@ -24,6 +24,3 @@
 4. Ouvrir Powershell, accéder au dossier quelpoke et taper la commande go build main.go
 5. Executer le fichier "main.go" qui s'est crée dans le dossier "quelpoke"
 6.  [Accéder à l'application QuelPoke Télécharger QuelPoke](http://127.0.0.1:8080/)
-
-
-contact : alexandre.bobbera@viacesi.fr 
