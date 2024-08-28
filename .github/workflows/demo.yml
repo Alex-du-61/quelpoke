@@ -23,4 +23,3 @@ jobs:
       
       - name: Push the Docker image
         run: docker push europe-west9-docker.pkg.dev/infal-devops-sysops/student-alexandre/quelpoke:latest
-        
